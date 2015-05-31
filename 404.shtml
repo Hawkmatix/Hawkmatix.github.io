@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<head>
+	<title>Page Not Found | Hawkmatix</title>
+	<link rel="stylesheet" type="text/css" href="hawkmatix.css" />
+</head>
+<body>
+	<div id="container">
+		<div id="logo">
+			<p>
+				<span id="logo-text">Hawkmatix</span>
+				<img border="0" src="logos/hawkmatix-logo.png" alt="Hawkmatix Logo" />
+			</p>
+		</div>
+
+		<div id="nav-box">
+			<div id="nav-button">
+				<div id="nav-item">
+					<a href="index.html">Home</a>
+				</div>
+			</div>
+
+			<div id="nav-button">
+				<div id="nav-item">
+					<a href="projects.html">Projects</a>
+				</div>
+			</div>
+
+			<div id="nav-button">
+				<div id="nav-item">
+					<a href="partners.html">Partners</a>
+				</div>
+			</div>
+
+			<div id="nav-button">
+				<div id="nav-item">
+					<a href="support.html">Support</a>
+				</div>
+			</div>
+
+			<div id="nav-button">
+				<div id="nav-item">
+					<a href="about.html">About</a>
+				</div>
+			</div>
+		</div>
+
+		<div id="content">
+			<div id="page-title">Page Not Found</div>
+			
+			<p>
+				Sorry, we couldn't find the page you were looking for. Try making a
+				fresh start at the <a href="index.html">Hawkmatix home page</a>.
+			</p>
+			
+			<p>
+				Still can't find what you are looking for? Visit our
+				<a href="support.html">support</a> page.
+			</p>
+		</div>
+
+		<div id="footer">
+			<p>
+				<a href="http://www.gnu.org/licenses/lgpl.html" target="_blank">
+					<img src="logos/lgpl-logo.png" height="30" border=0 />
+				</a>
+				<a href="http://www.gnu.org/licenses/fdl.html" target="_blank">
+					<img src="logos/gfdl-logo.png" height="30" border=0 />
+				</a>
+				<br />
+				Software is licensed under a <a href="http://www.gnu.org/licenses/lgpl.html" target="_blank">
+				GNU Lesser General Public License</a>. |
+				Documentation is licensed under a <a href="http://www.gnu.org/licenses/fdl.html" target="_blank">
+				GNU Free Documentation License</a>. | <a href="terms.html">Terms of Use</a>
+			</p>
+
+			<p>
+				Copyright &copy; 2013 Andrew C. Hawkins
+			</p>
+		</div>
+	</div>
+</body>
+</html>
