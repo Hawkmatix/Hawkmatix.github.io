@@ -48,7 +48,7 @@
 
 		<div id="content">
 			<div id="page-title">Internal Server Error</div>
-			
+
 			<p>
 				Sorry, we seem to be having some issues with our server. Please try
 				again later.
@@ -71,7 +71,7 @@
 			</p>
 
 			<p>
-				Copyright &copy; 2013 Andrew C. Hawkins
+				Copyright &copy; 2013 - 2014 Andrew C. Hawkins
 			</p>
 		</div>
 	</div>

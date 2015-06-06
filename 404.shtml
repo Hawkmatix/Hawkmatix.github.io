@@ -48,12 +48,12 @@
 
 		<div id="content">
 			<div id="page-title">Page Not Found</div>
-			
+
 			<p>
 				Sorry, we couldn't find the page you were looking for. Try making a
 				fresh start at the <a href="index.html">Hawkmatix home page</a>.
 			</p>
-			
+
 			<p>
 				Still can't find what you are looking for? Visit our
 				<a href="support.html">support</a> page.
@@ -76,7 +76,7 @@
 			</p>
 
 			<p>
-				Copyright &copy; 2013 Andrew C. Hawkins
+				Copyright &copy; 2013 - 2015 Andrew C. Hawkins
 			</p>
 		</div>
 	</div>
