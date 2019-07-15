@@ -206,9 +206,8 @@ div#content
 
 div#footer
 {
-	font-size: 12pt;
 	clear: both;
-	font-size: x-small;
+	font-size: small;
 	text-align: center;
 	border-top: 1px solid;
 }
